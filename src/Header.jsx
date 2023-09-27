@@ -10,7 +10,7 @@ const Header = () => {
       <Navbar bg="primary" data-bs-theme="dark">
         <Container>
           <Navbar.Brand href="#home">Главная</Navbar.Brand>
-          <Nav className="me-auto">
+          <Nav className="me-auto classFont">
             <Nav.Link href="#home">Об СНТ Рассвет</Nav.Link>
             <Nav.Link href="#News">Новости</Nav.Link>
             <Nav.Link href="#BuySell">Купи/Продай</Nav.Link>
