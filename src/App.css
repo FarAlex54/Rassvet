@@ -7,7 +7,6 @@
  @media screen and (max-width: 1024px) {
   .classFont { font-size: 0.8rem; }
  }
- /* Для ширины 600 пикселей и меньше */
  @media screen and (max-width: 600px) {
   .classFont { font-size: 0.6rem; }
  }
